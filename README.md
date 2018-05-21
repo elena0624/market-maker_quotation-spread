@@ -39,4 +39,5 @@
 
 
 ## 參考資料:
-* 想要取最窄的spread: https://medium.com/@kasiarachuta/dealing-with-duplicates-in-pandas-dataframe-789894a28911
+* 想要取最窄的spread: ~~https://medium.com/@kasiarachuta/dealing-with-duplicates-in-pandas-dataframe-789894a28911~~
+* 想要取最窄的spread: group by
