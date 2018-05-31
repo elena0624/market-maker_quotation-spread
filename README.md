@@ -18,7 +18,7 @@
     * tx volume for 5 seconds
     * strike price
     * seconds until executed
-    * 委託價(本來應該用中價，先用委託買價代替)
+    * ~~委託價(本來應該用中價，先用委託買價代替)~~~ 改用委託中價 準確率降低
     * 減量口數????
     
 ### data preprocessing:
@@ -41,3 +41,6 @@
 ## 參考資料:
 * 想要取最窄的spread: ~~https://medium.com/@kasiarachuta/dealing-with-duplicates-in-pandas-dataframe-789894a28911~~
 * 想要取最窄的spread: group by
+
+## 結果:
+* 姑且先拿5秒/1秒/分買賣權/履約價來比較
